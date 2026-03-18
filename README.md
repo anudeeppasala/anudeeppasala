@@ -32,7 +32,7 @@
 - **Media Metadata Engine** — AI-powered media asset analyzer + library (Streamlit, SQLite, Gemini)
 - **Cursor-skills** — reusable Cursor rules/prompts you can plug into any repo
 
-👉 Go to your profile → **Customize your pins** → pin these two repos.
+
 
 ---
 
