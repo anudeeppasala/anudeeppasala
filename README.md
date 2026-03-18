@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anudeeppasalawork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anudeeppasalawork%40gmail.com-EA4335?logo=gmail&logoColor=white" />
-  </a>
   <a href="https://medium.com/@anudeep22">
     <img src="https://img.shields.io/badge/Medium-Read%20my%20posts-12100E?logo=medium&logoColor=white" />
   </a>
@@ -104,9 +101,7 @@
 </p>
 </details>
 
----
 
-## 📬 Contact
-- Email: **anudeeppasalawork@gmail.com**
+
 
 
