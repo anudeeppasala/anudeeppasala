@@ -80,6 +80,19 @@
 
 ---
 
+## 🎓 Certifications
+
+<p>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AnudeepPasala-9086/7BNCBMPZ?sharingId=C33D42A65450E2BC">
+    <img src="https://raw.githubusercontent.com/anudeeppasala/anudeeppasala/main/assets/ms-intro-ai-concepts.png" width="420" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AnudeepPasala-9086/UA5PG7X3?sharingId=C33D42A65450E2BC">
+    <img src="https://raw.githubusercontent.com/anudeeppasala/anudeeppasala/main/assets/ms-genai-agents.png" width="420" />
+  </a>
+</p>
+
+---
+
 ## 📌 Featured Projects
 - **[Media Metadata Engine](https://github.com/anudeeppasala/media-metadata-engine)** — AI-powered media asset analyzer + library (Streamlit, SQLite, Gemini, FFmpeg)
 - **[Cursor-skills](https://github.com/anudeeppasala/Cursor-skills)** — reusable Cursor rules/prompts you can plug into any repo
