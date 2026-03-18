@@ -84,11 +84,11 @@
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/AnudeepPasala-9086/7BNCBMPZ?sharingId=C33D42A65450E2BC">
-    <img src="https://raw.githubusercontent.com/anudeeppasala/assets/main/assets/ms-intro-ai-concepts.png" width="220" />
+    <img src="https://raw.githubusercontent.com/anudeeppasala/anudeeppasala/main/ms-intro-ai-concepts.png" width="220" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/AnudeepPasala-9086/UA5PG7X3?sharingId=C33D42A65450E2BC">
-    <img src="https://raw.githubusercontent.com/anudeeppasala/assets/main/assets/ms-genai-agents.png" width="220" />
+    <img src="https://raw.githubusercontent.com/anudeeppasala/anudeeppasala/main/ms-genai-agents.png" width="220" />
   </a>
 </p>
 
