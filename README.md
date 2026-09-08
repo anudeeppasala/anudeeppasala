@@ -18,7 +18,7 @@
 
 ## About me
 
-Cloud Engineer with 5+ years building and operating production systems on **AWS and Azure**. At Warner Bros. Discovery I designed event-driven media ingest on Lambda, SQS/SNS, S3, and API Gateway, and shipped FastAPI services on Docker and Kubernetes with Terraform / AWS CDK and GitHub Actions. At JPMorgan Chase I delivered cloud-native financial workloads using Lambda, API Gateway, Kafka, IAM, and CloudWatch. At Accenture I deployed Azure App Service, Functions, Blob Storage, Azure SQL, Entra ID, and Azure DevOps pipelines. Strengths: serverless, IaC, least-privilege IAM, CI/CD, and GenAI / LLMOps on the same cloud patterns. AWS Certified Developer – Associate; Solutions Architect Associate (SAA-C03) in progress.
+Cloud Engineer with 6+ years building and operating production systems on **AWS and Azure**. At Warner Bros. Discovery I designed event-driven media ingest on Lambda, SQS/SNS, S3, and API Gateway, and shipped FastAPI services on Docker and Kubernetes with Terraform / AWS CDK and GitHub Actions. At JPMorgan Chase I delivered cloud-native financial workloads using Lambda, API Gateway, Kafka, IAM, and CloudWatch. At Accenture I deployed Azure App Service, Functions, Blob Storage, Azure SQL, Entra ID, and Azure DevOps pipelines. Strengths: serverless, IaC, least-privilege IAM, CI/CD, and GenAI / LLMOps on the same cloud patterns. AWS Certified Developer – Associate; Solutions Architect Associate (SAA-C03) in progress.
 
 - Event-driven serverless (Lambda, SQS/SNS, EventBridge, Azure Functions)
 - Infrastructure as code (Terraform, AWS CDK) and GitHub Actions / Azure DevOps
