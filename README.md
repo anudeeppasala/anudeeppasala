@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anudeep Pasala 👋</h1>
-<h3 align="center">Cloud Engineer • AWS & Azure • Serverless, IaC, CI/CD • GenAI / LLMOps</h3>
+<h3 align="center">Senior Cloud Engineer • AWS & Azure • Serverless, IaC, CI/CD • GenAI / LLMOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anudeep-pasala/">
@@ -18,10 +18,11 @@
 
 ## About me
 
-Cloud Engineer with 6+ years building and operating production systems on **AWS and Azure**. At Warner Bros. Discovery I designed event-driven media ingest on Lambda, SQS/SNS, S3, and API Gateway, and shipped FastAPI services on Docker and Kubernetes with Terraform / AWS CDK and GitHub Actions. At JPMorgan Chase I delivered cloud-native financial workloads using Lambda, API Gateway, Kafka, IAM, and CloudWatch. At Accenture I deployed Azure App Service, Functions, Blob Storage, Azure SQL, Entra ID, and Azure DevOps pipelines. Strengths: serverless, IaC, least-privilege IAM, CI/CD, and GenAI / LLMOps on the same cloud patterns. AWS Certified Developer – Associate; Solutions Architect Associate (SAA-C03) in progress.
+Senior Cloud Engineer with around 7 years building and operating production systems on **AWS and Azure**. At Warner Bros. Discovery I designed event-driven media ingest on Lambda, SQS/SNS, S3, and API Gateway, and shipped FastAPI services on Docker and Kubernetes (EKS) with Terraform / AWS CDK, Helm, Argo CD, and GitHub Actions. At JPMorgan Chase I delivered cloud-native financial workloads using Lambda, API Gateway, Kafka, IAM, CloudWatch, and Jenkins. At Accenture I deployed Azure App Service, Functions, Blob Storage, Azure SQL, Entra ID, AKS / OpenShift, and Azure DevOps pipelines. Strengths: serverless, IaC, least-privilege IAM, CI/CD, and GenAI / LLMOps on the same cloud patterns. AWS Certified Developer – Associate.
 
 - Event-driven serverless (Lambda, SQS/SNS, EventBridge, Azure Functions)
-- Infrastructure as code (Terraform, AWS CDK) and GitHub Actions / Azure DevOps
+- Infrastructure as code (Terraform, AWS CDK) and GitHub Actions / Azure DevOps / Jenkins / Argo CD
+- Kubernetes on EKS, AKS, and OpenShift with Helm
 - IAM least-privilege, OAuth 2.0, and pre-apply change control
 - LLMOps pipelines: ingest, retrieve, cited generation, guardrails
 
@@ -45,6 +46,11 @@ Cloud Engineer with 6+ years building and operating production systems on **AWS 
   <img src="https://img.shields.io/badge/AWS%20CDK-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?logo=amazoneks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?logo=azuredevops&logoColor=white" />
 </p>
@@ -74,7 +80,6 @@ Cloud Engineer with 6+ years building and operating production systems on **AWS 
 ## Certifications
 
 - **AWS Certified Developer – Associate**
-- **AWS Solutions Architect Associate (SAA-C03)** — in progress
 - Anthropic Academy: Claude Code in Action, Building with the Claude API, MCP, Agent Skills
 
 <p align="center">
